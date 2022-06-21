@@ -1,5 +1,5 @@
 import java.util.*;
-public class Calculators
+public class Advance Calculator
 {
     public static void main(String args[])
     {
@@ -7,7 +7,7 @@ public class Calculators
         double num1,num2;
         Scanner reader = new Scanner(System.in);
         System.out.println("Calculator System");
-		System.out.println("Advance Calcuator");
+		System.out.println("Advance Calculator");
         do
         {
             System.out.println("Option Menu");
